@@ -9,6 +9,8 @@ android {
             storePassword "000624"
             keyAlias "bunny"
             keyPassword "426000"
+            v1SigningEnabled true
+            v2SigningEnabled true
         }
     }
 
